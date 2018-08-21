@@ -1,9 +1,10 @@
-#---
+---
 title: "About"
 permalink: /about/
 header:
     image: "/images/25thStreet.png"
-#---
+    
+---
 
 I'm a computer scientist in the making. I'm currently a senior at Weber State University. 
 As I have been pursuing my CS degree, I have experienced many frustrations and challenges, 
