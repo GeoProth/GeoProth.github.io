@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Geoff Prothero"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I'm a Computer Scientist in training"
   location         : "Ogden, UT"
   email            : "Gprothero@live.com"
