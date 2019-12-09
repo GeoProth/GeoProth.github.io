@@ -28,7 +28,7 @@ pushing to deliver the best version of myself as a team member.
 **OS:**  Linux, MacOS, IOS(SDK)
 
 **Projects:**
-* [JavaScript VUE.js WebApp in AWS using Gitlab CI/CD]("../OffSocial/"){:target="_blank"}
+* [JavaScript VUE.js WebApp in AWS using Gitlab CI/CD]("../../OffSocial/"){:target="_blank"}
 * [C# .NET cor MVC WebApp with SQL Server DB]("../CS4790-TeamProject/")
 * [Swift iOS Grocery App with Apple Maps SDK]("../Grocery/tree/master/")
 * [Python Stock forecasting utilizing Pandas library]("../stock-predict/")
