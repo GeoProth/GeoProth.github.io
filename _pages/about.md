@@ -28,10 +28,9 @@ pushing to deliver the best version of myself as a team member.
 **OS:**  Linux, MacOS, IOS(SDK)
 
 **Projects:**
-* <a href="https://github.com/GeoProth/OffSocial">JavaScript</a>
-* [JavaScript VUE.js WebApp in AWS using Gitlab CI/CD]("../../../OffSocial/README.md"){:target="_blank"}
-* [C# .NET cor MVC WebApp with SQL Server DB]("../CS4790-TeamProject/")
-* [Swift iOS Grocery App with Apple Maps SDK]("../Grocery/tree/master/")
-* [Python Stock forecasting utilizing Pandas library]("../stock-predict/")
-* [Java Mahjong Game using Swing]("../MahJong2/")
-* [Java Turing Machine Program]("../TuringMachine/")
+* <a href="https://github.com/GeoProth/OffSocial">JavaScript VUE.js WebApp in AWS using Gitlab CI/CD</a>
+* <a href="https://github.com/GeoProth/CS4790-TeamProject">C# .NET cor MVC WebApp with SQL Server DB</a>
+* <a href="https://github.com/GeoProth/Grocery/tree/master">Swift iOS Grocery App with Apple Maps SDK</a>
+* <a href=https://github.com/GeoProth/stock-predict">Python Stock forecasting utilizing Pandas library</a>
+* <a href=https://github.com/GeoProth/MahJong2">Java Mahjong Game using Swing</a>
+* <a href=https://github.com/GeoProth/TuringMaching">Java Turing Machine Program</a>
