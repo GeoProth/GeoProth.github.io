@@ -23,13 +23,13 @@ engaged and energetic team player. I seek out challenges with the eagerness of s
 pushing to deliver the best version of myself as a team member.
 
 
-**Languages:**  Java, C, C++, C&#35, Python, Assembly, SQL, NoSQL, HTML, CSS, JavaScript, JQuery, Swift
+**Languages:**  Java, C, C++, C#, Python, Assembly, SQL, NoSQL, HTML, CSS, JavaScript, JQuery, Swift
 
 **OS:**  Linux, MacOS, IOS(SDK)
 
 **Projects:**
-                    * [JavaScript VUE.js WebApp in AWS using Gitlab CI/CS]("https://github.com/GeoProth/OffSocial")
-                    * [C&#35 .NET cor MVC WebApp with SQL Server DB]("https://github.com/GeoProth/CS4790-TeamProject")
+                    * [JavaScript VUE.js WebApp in AWS using Gitlab CI/CD]("https://github.com/GeoProth/OffSocial")
+                    * [C# .NET cor MVC WebApp with SQL Server DB]("https://github.com/GeoProth/CS4790-TeamProject")
                     * [Swift iOS Grocery App with Apple Maps SDK]("https://github.com/GeoProth/Grocery/tree/master")
                     * [Python Stock forecasting utilizing Pandas library]("https://github.com/GeoProth/stock-predict")
                     * [Java Mahjong Game using Swing]("https://github.com/GeoProth/MahJong2")
