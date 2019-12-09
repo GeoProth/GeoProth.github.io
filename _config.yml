@@ -101,9 +101,9 @@ analytics:
 # Site Author
 author:
   name             : "Geoff Prothero"
-  avatar           : "/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm a Computer Scientist in training"
-  location         : "Ogden, UT"
+  avatar           : "/images/me.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Computer Scientist"
+  location         : "Salt Lake, UT"
   email            : "Gprothero@live.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
