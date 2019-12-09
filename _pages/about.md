@@ -5,29 +5,31 @@ header:
     image: "/images/25thStreet.png"
     
 ---
-I'm currently a senior at Weber State University. 
-As I have been pursuing my CS degree, I have experienced many frustrations and challenges, 
-but met those hurdles with perseverence and have gained new knowledge, perspective, 
-and more passion for the field of CS.  I still have much to learn, 
-but have developed the frameworks necessary to build upon my skills. 
+I recently graduated from Weber State University with a Bachelors of Computer Science.
+While studying at Weber I was able to take part in some great team projects and utilize my technical skillset and positive attitude
+to help drive our teams over the finish line with awesome results.  I am a friendly people person that loves to program and
+seek out new challenging opportunites to build on my technical skill sets.  I am a self motivated individual that strives to keep learning
+and have fun doing it!
+
+Before attending Weber State and aquiring my Computer Science degree, I had the opportunity to work for an amazing company
+called Quality Bicycle Products.  I was an Outbound Lead and a Special Order Processor for 4 years.  During this time I took on many
+roles and loved working with people.  As an Outbound Lead I was always looking for ways to improve our processes to help
+our team be more efficient and always tried to keep others motivated and enjoy the work.
+I loved the daily process of problem solving technical issues and working with a great team
+to execute our processes in the most fun and efficient ways.
+
+You can expect me to utilize my knowledge and positive attitude for driving successful project outcomes while being an
+engaged and energetic team player. I seek out challenges with the eagerness of someone hungry for growth and am always
+pushing to deliver the best version of myself as a team member.
 
 
-Below is a current list of my completed CS studies
-If you would like to view these private repos, please contact me
+**Languages:**  Java, C, C++, C&#35, Python, Assembly, SQL, NoSQL, HTML, CSS, JavaScript, JQuery, Swift
 
-### Weber State University Courses
+**OS:**  Linux, MacOS, IOS(SDK)
 
-**Courses:**   
-         • CS 1400  [Fundamentals of Programming](https://github.com/GeoProth/WSU-CourseWork/tree/master/CS1400)  
-         • CS 1410  [Object Oriented programming](http://github.com/GeoProth/WSU-CourseWork/tree/master/CS1410)  
-         • CS 2130  [Computational Structures](http://github.com/GeoProth/WSU-CourseWork/tree/master/CS2130)  
-         • CS 2550  [Intro to Database Design & SQL](http://github.com/GeoProth/WSU-CourseWork/tree/master/CS12550)  
-         • CS 2705  [Network Fundamentals & Design](http://github.com/GeoProth/WSU-CourseWork/tree/master/CS2705)  
-         • CS 2350  [Web Development](http://github.com/GeoProth/WSU-CourseWork/tree/master/CS2350)  
-         • CS 2810  [Computer Architecture/Orginization](http://github.com/GeoProth/WSU-CourseWork/tree/master/CS2810)  
-         • CS 2420  [Data Structures & Algorithms](http://github.com/GeoProth/WSU-CourseWork/tree/master/CS2420)  
-         • CS 2450  [Software Engineering 1](http://github.com/GeoProth/WSU-CourseWork/tree/master/CS2450)  
-         • CS 3100  [Operating Systems](http://github.com/GeoProth/WSU-CourseWork/tree/master/CS143100)  
-         • CS 4110  [Formal Languages & Algorithms](http://github.com/GeoProth/WSU-CourseWork/tree/master/CS4110)  
-            
-**Languages:**  Java, C, C++, Python, Assembly, SQL, HTML, CSS, JavaScript, JQuery
+**Projects:**  *[JavaScript VUE.js WebApp in AWS using Gitlab CI/CS]("https://github.com/GeoProth/OffSocial")
+                      *[C&#35 .NET cor MVC WebApp with SQL Server DB]("https://github.com/GeoProth/CS4790-TeamProject")
+                      *[Swift iOS Grocery App with Apple Maps SDK]("https://github.com/GeoProth/Grocery/tree/master")
+                      *[Python Stock forecasting utilizing Pandas library]("https://github.com/GeoProth/stock-predict")
+                      *[Java Mahjong Game using Swing]("https://github.com/GeoProth/MahJong2")
+                      *[Java Turing Machine Program]("https://github.com/GeoProth/TuringMachine")
