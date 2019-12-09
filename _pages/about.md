@@ -33,4 +33,4 @@ pushing to deliver the best version of myself as a team member.
 * <a href="https://github.com/GeoProth/Grocery/tree/master">Swift iOS Grocery App with Apple Maps SDK</a>
 * <a href="https://github.com/GeoProth/stock-predict">Python Stock forecasting utilizing Pandas library</a>
 * <a href="https://github.com/GeoProth/MahJong2">Java Mahjong Game using Swing</a>
-* <a href="https://github.com/GeoProth/TuringMaching">Java Turing Machine Program</a>
+* <a href="https://github.com/GeoProth/TuringMachine">Java Turing Machine Program</a>
