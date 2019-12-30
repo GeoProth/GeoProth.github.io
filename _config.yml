@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Geoff Prothero"
 title_separator          : "-"
 name                     : "Geoff Prothero"
-description              : "Computer Science Portfolio"
+description              : "Software Engineer profile"
 url                      :  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Geoff Prothero"
   avatar           : "/images/me.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Computer Scientist"
+  bio              : "Software Engineer"
   location         : "Salt Lake, UT"
   email            : "Gprothero@live.com"
   uri              :
